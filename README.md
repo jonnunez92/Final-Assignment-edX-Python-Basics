@@ -1,5 +1,5 @@
-# testrepo
+# Extracting and Visualizing Stock Data
 
-## Editing the file
+## Final Assignment for Python Basics for Data Science at edX
 
-Its a markdown file in this repository.
+This will include a step-by-step Jupyter Notebook breakdown of Tesla and GameStop stock data. Will also be used to illustrate the historical share prices and historical revenue for each stock as graphs.
